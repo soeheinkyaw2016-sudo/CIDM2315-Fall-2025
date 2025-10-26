@@ -1,8 +1,5 @@
 ﻿
 
-
-
-
 namespace Homework8;
 
 class Program
@@ -106,5 +103,4 @@ class Customer
         this.customerCredit = customerCredit;
     }
 }
-
 
